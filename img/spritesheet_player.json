@@ -1,0 +1,652 @@
+{"frames": [
+
+{
+	"filename": "Bartizan.png",
+	"frame": {"x":2,"y":2,"w":108,"h":246},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":4,"w":108,"h":246},
+	"sourceSize": {"w":250,"h":250}
+},
+{
+	"filename": "BountyHunter.png",
+	"frame": {"x":803,"y":498,"w":190,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":190,"h":126},
+	"sourceSize": {"w":198,"h":198}
+},
+{
+	"filename": "Campsite.png",
+	"frame": {"x":498,"y":2,"w":212,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":32,"w":212,"h":186},
+	"sourceSize": {"w":250,"h":250}
+},
+{
+	"filename": "CaravanGuard.png",
+	"frame": {"x":894,"y":1079,"w":167,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":45,"w":167,"h":127},
+	"sourceSize": {"w":217,"h":217}
+},
+{
+	"filename": "CaravanLeader.png",
+	"frame": {"x":2,"y":971,"w":171,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":171,"h":155},
+	"sourceSize": {"w":173,"h":173}
+},
+{
+	"filename": "Chief Ukes.png",
+	"frame": {"x":652,"y":1506,"w":121,"h":139},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":4,"w":121,"h":139},
+	"sourceSize": {"w":155,"h":155}
+},
+{
+	"filename": "Earl Frad.png",
+	"frame": {"x":830,"y":1395,"w":120,"h":140},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":21,"w":120,"h":140},
+	"sourceSize": {"w":192,"h":192}
+},
+{
+	"filename": "HiredCalvary.png",
+	"frame": {"x":2,"y":1128,"w":171,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":171,"h":153},
+	"sourceSize": {"w":173,"h":173}
+},
+{
+	"filename": "HiredCrossbowman.png",
+	"frame": {"x":346,"y":1258,"w":168,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":42,"w":168,"h":126},
+	"sourceSize": {"w":222,"h":222}
+},
+{
+	"filename": "HiredRider.png",
+	"frame": {"x":175,"y":983,"w":171,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":15,"w":171,"h":153},
+	"sourceSize": {"w":197,"h":197}
+},
+{
+	"filename": "HiredSwordsman.png",
+	"frame": {"x":202,"y":404,"w":193,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":38,"w":193,"h":143},
+	"sourceSize": {"w":217,"h":217}
+},
+{
+	"filename": "K.HorseArcher.png",
+	"frame": {"x":355,"y":947,"w":171,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":12,"w":171,"h":153},
+	"sourceSize": {"w":195,"h":195}
+},
+{
+	"filename": "K.Horseman.png",
+	"frame": {"x":175,"y":983,"w":171,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":15,"w":171,"h":153},
+	"sourceSize": {"w":197,"h":197}
+},
+{
+	"filename": "K.Lancer.png",
+	"frame": {"x":722,"y":910,"w":170,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":3,"w":170,"h":168},
+	"sourceSize": {"w":186,"h":178}
+},
+{
+	"filename": "K.Skirmisher.png",
+	"frame": {"x":348,"y":1102,"w":170,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":18,"w":170,"h":154},
+	"sourceSize": {"w":194,"h":194}
+},
+{
+	"filename": "K.Tribesman.png",
+	"frame": {"x":2,"y":686,"w":178,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":56,"w":178,"h":126},
+	"sourceSize": {"w":236,"h":236}
+},
+{
+	"filename": "K.V.HorseArcher.png",
+	"frame": {"x":182,"y":813,"w":171,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":9,"w":171,"h":168},
+	"sourceSize": {"w":185,"h":192}
+},
+{
+	"filename": "Khan Saiga.png",
+	"frame": {"x":549,"y":906,"w":171,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":22,"w":171,"h":153},
+	"sourceSize": {"w":197,"h":197}
+},
+{
+	"filename": "Lord Casto.png",
+	"frame": {"x":830,"y":1395,"w":120,"h":140},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":21,"w":120,"h":140},
+	"sourceSize": {"w":192,"h":192}
+},
+{
+	"filename": "N.Archer.png",
+	"frame": {"x":665,"y":288,"w":198,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":198,"h":126},
+	"sourceSize": {"w":206,"h":206}
+},
+{
+	"filename": "N.E.Archer.png",
+	"frame": {"x":2,"y":401,"w":198,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":198,"h":126},
+	"sourceSize": {"w":206,"h":206}
+},
+{
+	"filename": "N.E.Sergeant.png",
+	"frame": {"x":397,"y":490,"w":190,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":20,"w":190,"h":156},
+	"sourceSize": {"w":206,"h":206}
+},
+{
+	"filename": "N.Footman.png",
+	"frame": {"x":500,"y":1473,"w":150,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":27,"w":150,"h":126},
+	"sourceSize": {"w":188,"h":188}
+},
+{
+	"filename": "N.Guard.png",
+	"frame": {"x":415,"y":333,"w":193,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":18,"w":193,"h":155},
+	"sourceSize": {"w":197,"h":197}
+},
+{
+	"filename": "N.Hunter.png",
+	"frame": {"x":2,"y":1283,"w":169,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":34,"w":169,"h":125},
+	"sourceSize": {"w":193,"h":193}
+},
+{
+	"filename": "N.Newman.png",
+	"frame": {"x":2,"y":686,"w":178,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":56,"w":178,"h":126},
+	"sourceSize": {"w":236,"h":236}
+},
+{
+	"filename": "N.V.Footman.png",
+	"frame": {"x":610,"y":416,"w":191,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":36,"w":191,"h":135},
+	"sourceSize": {"w":203,"h":203}
+},
+{
+	"filename": "N.Warrior.png",
+	"frame": {"x":195,"y":549,"w":190,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":190,"h":134},
+	"sourceSize": {"w":202,"h":202}
+},
+{
+	"filename": "Official.png",
+	"frame": {"x":919,"y":2,"w":100,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":25,"w":100,"h":154},
+	"sourceSize": {"w":206,"h":206}
+},
+{
+	"filename": "Prince Vidim.png",
+	"frame": {"x":830,"y":1395,"w":120,"h":140},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":21,"w":120,"h":140},
+	"sourceSize": {"w":192,"h":192}
+},
+{
+	"filename": "Prof.Warrior.png",
+	"frame": {"x":919,"y":268,"w":54,"h":75},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":75},
+	"sourceSize": {"w":54,"h":75}
+},
+{
+	"filename": "Prophet Levine.png",
+	"frame": {"x":830,"y":1395,"w":120,"h":140},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":21,"w":120,"h":140},
+	"sourceSize": {"w":192,"h":192}
+},
+{
+	"filename": "R.Crossbowman.png",
+	"frame": {"x":346,"y":1258,"w":168,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":42,"w":168,"h":126},
+	"sourceSize": {"w":222,"h":222}
+},
+{
+	"filename": "R.E.Crossbowman.png",
+	"frame": {"x":458,"y":190,"w":205,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":41,"w":205,"h":141},
+	"sourceSize": {"w":221,"h":221}
+},
+{
+	"filename": "R.E.Spearman.png",
+	"frame": {"x":2,"y":1410,"w":166,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":27,"w":166,"h":126},
+	"sourceSize": {"w":180,"h":180}
+},
+{
+	"filename": "R.Seargant.png",
+	"frame": {"x":712,"y":145,"w":205,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":37,"w":205,"h":141},
+	"sourceSize": {"w":217,"h":217}
+},
+{
+	"filename": "R.SniperShooter.png",
+	"frame": {"x":250,"y":102,"w":206,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":40,"w":206,"h":142},
+	"sourceSize": {"w":226,"h":226}
+},
+{
+	"filename": "R.Spearman.png",
+	"frame": {"x":774,"y":626,"w":176,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":49,"w":176,"h":126},
+	"sourceSize": {"w":222,"h":222}
+},
+{
+	"filename": "R.Tribesman.png",
+	"frame": {"x":2,"y":686,"w":178,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":56,"w":178,"h":126},
+	"sourceSize": {"w":236,"h":236}
+},
+{
+	"filename": "R.V.Crossbowman.png",
+	"frame": {"x":712,"y":2,"w":205,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":41,"w":205,"h":141},
+	"sourceSize": {"w":221,"h":221}
+},
+{
+	"filename": "R.V.Spearman.png",
+	"frame": {"x":2,"y":112,"w":205,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":41,"w":205,"h":141},
+	"sourceSize": {"w":221,"h":221}
+},
+{
+	"filename": "S.Crossbowman.png",
+	"frame": {"x":520,"y":1217,"w":168,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":45,"w":168,"h":126},
+	"sourceSize": {"w":204,"h":204}
+},
+{
+	"filename": "S.Footman.png",
+	"frame": {"x":894,"y":1079,"w":167,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":45,"w":167,"h":127},
+	"sourceSize": {"w":217,"h":217}
+},
+{
+	"filename": "S.HeavyCalvary.png",
+	"frame": {"x":2,"y":529,"w":191,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":21,"w":191,"h":155},
+	"sourceSize": {"w":197,"h":197}
+},
+{
+	"filename": "S.Infantry.png",
+	"frame": {"x":202,"y":404,"w":193,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":38,"w":193,"h":143},
+	"sourceSize": {"w":217,"h":217}
+},
+{
+	"filename": "S.Knight.png",
+	"frame": {"x":209,"y":246,"w":204,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":204,"h":156},
+	"sourceSize": {"w":208,"h":208}
+},
+{
+	"filename": "S.Militia.png",
+	"frame": {"x":774,"y":626,"w":176,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":49,"w":176,"h":126},
+	"sourceSize": {"w":222,"h":222}
+},
+{
+	"filename": "S.Newman.png",
+	"frame": {"x":2,"y":686,"w":178,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":56,"w":178,"h":126},
+	"sourceSize": {"w":236,"h":236}
+},
+{
+	"filename": "S.Seargant.png",
+	"frame": {"x":2,"y":255,"w":198,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":41,"w":198,"h":144},
+	"sourceSize": {"w":216,"h":216}
+},
+{
+	"filename": "S.SharpShooter.png",
+	"frame": {"x":894,"y":910,"w":167,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":45,"w":167,"h":127},
+	"sourceSize": {"w":217,"h":217}
+},
+{
+	"filename": "S.Skirmisher.png",
+	"frame": {"x":346,"y":1258,"w":168,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":42,"w":168,"h":126},
+	"sourceSize": {"w":222,"h":222}
+},
+{
+	"filename": "S.nn.png",
+	"frame": {"x":195,"y":685,"w":178,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":56,"w":178,"h":126},
+	"sourceSize": {"w":250,"h":250}
+},
+{
+	"filename": "S.pp.png",
+	"frame": {"x":516,"y":1345,"w":156,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":56,"w":156,"h":126},
+	"sourceSize": {"w":250,"h":250}
+},
+{
+	"filename": "Sentry.png",
+	"frame": {"x":774,"y":626,"w":176,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":49,"w":176,"h":126},
+	"sourceSize": {"w":222,"h":222}
+},
+{
+	"filename": "SmallBartizan.png",
+	"frame": {"x":173,"y":1301,"w":126,"h":168},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":78,"w":126,"h":168},
+	"sourceSize": {"w":250,"h":250}
+},
+{
+	"filename": "SmallTrader.png",
+	"frame": {"x":2,"y":1674,"w":143,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":21,"w":143,"h":127},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "Sr.Footman.png",
+	"frame": {"x":327,"y":1515,"w":147,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":26,"w":147,"h":139},
+	"sourceSize": {"w":191,"h":191}
+},
+{
+	"filename": "Sr.Guard.png",
+	"frame": {"x":589,"y":553,"w":183,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":6,"w":183,"h":179},
+	"sourceSize": {"w":195,"h":195}
+},
+{
+	"filename": "Sr.Horseman.png",
+	"frame": {"x":528,"y":1061,"w":170,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":19,"w":170,"h":154},
+	"sourceSize": {"w":180,"h":180}
+},
+{
+	"filename": "Sr.Infantry.png",
+	"frame": {"x":690,"y":1222,"w":160,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":26,"w":160,"h":154},
+	"sourceSize": {"w":200,"h":200}
+},
+{
+	"filename": "Sr.MasterArcher.png",
+	"frame": {"x":375,"y":805,"w":172,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":24,"w":172,"h":140},
+	"sourceSize": {"w":196,"h":196}
+},
+{
+	"filename": "Sr.Mumluke.png",
+	"frame": {"x":568,"y":734,"w":170,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":170,"h":175},
+	"sourceSize": {"w":180,"h":179}
+},
+{
+	"filename": "Sr.Newman.png",
+	"frame": {"x":158,"y":1552,"w":143,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":26,"w":143,"h":139},
+	"sourceSize": {"w":191,"h":191}
+},
+{
+	"filename": "Sr.Skirmisher.png",
+	"frame": {"x":700,"y":1080,"w":168,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":24,"w":168,"h":140},
+	"sourceSize": {"w":196,"h":196}
+},
+{
+	"filename": "Sr.V.Footman.png",
+	"frame": {"x":387,"y":648,"w":179,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":25,"w":179,"h":155},
+	"sourceSize": {"w":197,"h":197}
+},
+{
+	"filename": "V.Archer.png",
+	"frame": {"x":170,"y":1429,"w":121,"h":155},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":121,"h":155},
+	"sourceSize": {"w":187,"h":187}
+},
+{
+	"filename": "V.Footman.png",
+	"frame": {"x":674,"y":1378,"w":154,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":30,"w":154,"h":126},
+	"sourceSize": {"w":182,"h":182}
+},
+{
+	"filename": "V.Guard.png",
+	"frame": {"x":2,"y":1538,"w":154,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":154,"h":134},
+	"sourceSize": {"w":170,"h":158}
+},
+{
+	"filename": "V.Horseman.png",
+	"frame": {"x":745,"y":754,"w":171,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":171,"h":154},
+	"sourceSize": {"w":173,"h":172}
+},
+{
+	"filename": "V.Infantry.png",
+	"frame": {"x":175,"y":1138,"w":169,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":23,"w":169,"h":161},
+	"sourceSize": {"w":187,"h":187}
+},
+{
+	"filename": "V.Knight.png",
+	"frame": {"x":865,"y":324,"w":172,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":172,"h":157},
+	"sourceSize": {"w":172,"h":177}
+},
+{
+	"filename": "V.MasterArcher.png",
+	"frame": {"x":852,"y":1248,"w":156,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":16,"w":156,"h":145},
+	"sourceSize": {"w":172,"h":171}
+},
+{
+	"filename": "V.Newman.png",
+	"frame": {"x":2,"y":686,"w":178,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":56,"w":178,"h":126},
+	"sourceSize": {"w":236,"h":236}
+},
+{
+	"filename": "V.Skirmisher.png",
+	"frame": {"x":2,"y":1283,"w":169,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":34,"w":169,"h":125},
+	"sourceSize": {"w":193,"h":193}
+},
+{
+	"filename": "V.V.Footman.png",
+	"frame": {"x":343,"y":1386,"w":155,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":20,"w":155,"h":127},
+	"sourceSize": {"w":177,"h":177}
+},
+{
+	"filename": "Wall.png",
+	"frame": {"x":918,"y":754,"w":107,"h":74},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":74},
+	"sourceSize": {"w":107,"h":74}
+},
+{
+	"filename": "WarDog.png",
+	"frame": {"x":919,"y":158,"w":108,"h":100},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":85,"w":108,"h":100},
+	"sourceSize": {"w":206,"h":206}
+},
+{
+	"filename": "WatchTower.png",
+	"frame": {"x":250,"y":2,"w":98,"h":246},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":2,"w":98,"h":246},
+	"sourceSize": {"w":250,"h":250}
+},
+{
+	"filename": "horseman.png",
+	"frame": {"x":2,"y":814,"w":171,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":15,"w":171,"h":155},
+	"sourceSize": {"w":197,"h":197}
+},
+{
+	"filename": "man.png",
+	"frame": {"x":476,"y":1601,"w":120,"h":126},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":56,"w":120,"h":126},
+	"sourceSize": {"w":250,"h":250}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "SpriteSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "0.83333",
+	"smartupdate": "$TexturePacker:SmartUpdate:64c9f94f7bbe5d7458e984eca94e2e68$"
+}
+}

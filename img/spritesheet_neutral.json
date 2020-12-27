@@ -1,0 +1,220 @@
+{"frames": [
+
+{
+	"filename": "BuildCamp.png",
+	"frame": {"x":98,"y":701,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":94,"h":94},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "CallonEnemy.png",
+	"frame": {"x":215,"y":680,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":94,"h":94},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "GrainLevies.png",
+	"frame": {"x":332,"y":620,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":94,"h":94},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "Heal.png",
+	"frame": {"x":2,"y":608,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":94,"h":94},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "Retreat.png",
+	"frame": {"x":119,"y":605,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":94,"h":94},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "SellingCaptives.png",
+	"frame": {"x":236,"y":584,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":94,"h":94},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "Tax.png",
+	"frame": {"x":332,"y":524,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":94,"h":94},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "VillageRecruit.png",
+	"frame": {"x":236,"y":488,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":94,"h":94},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "button_upgrade0.png",
+	"frame": {"x":397,"y":194,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":94,"h":94},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "button_upgrade1.png",
+	"frame": {"x":413,"y":98,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":94,"h":94},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "button_upgrade2.png",
+	"frame": {"x":413,"y":2,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":94,"h":94},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "card_front.png",
+	"frame": {"x":209,"y":2,"w":130,"h":202},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":202},
+	"sourceSize": {"w":130,"h":202}
+},
+{
+	"filename": "card_selected.png",
+	"frame": {"x":2,"y":2,"w":133,"h":205},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":205},
+	"sourceSize": {"w":133,"h":205}
+},
+{
+	"filename": "face_left.png",
+	"frame": {"x":329,"y":134,"w":66,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":1,"w":66,"h":98},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "hill_terrain.png",
+	"frame": {"x":2,"y":491,"w":115,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":115},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "mount_terrain.png",
+	"frame": {"x":119,"y":488,"w":115,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":115},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "next_turn.png",
+	"frame": {"x":2,"y":137,"w":118,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":118,"h":118},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "plain_terrain.png",
+	"frame": {"x":353,"y":407,"w":115,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":115},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "restart_game.png",
+	"frame": {"x":209,"y":134,"w":118,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":118,"h":118},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "sand_terrain.png",
+	"frame": {"x":236,"y":371,"w":115,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":115},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "snow_terrain.png",
+	"frame": {"x":2,"y":374,"w":115,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":115},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "tile_accessible.png",
+	"frame": {"x":119,"y":371,"w":115,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":115},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "tile_attackable.png",
+	"frame": {"x":356,"y":290,"w":115,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":115},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "tile_selected.png",
+	"frame": {"x":239,"y":254,"w":115,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":115},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "village_terrain.png",
+	"frame": {"x":2,"y":257,"w":115,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":115},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "water_terrain.png",
+	"frame": {"x":122,"y":254,"w":115,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":115},
+	"sourceSize": {"w":115,"h":115}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "neutral.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:830db8c5cc94e8a4100b1ecb1a6c693c$"
+}
+}
